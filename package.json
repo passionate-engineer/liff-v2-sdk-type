@@ -6,8 +6,5 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Passionate Engineer <ryozu256@gmail.com>",
-  "license": "ISC",
-  "dependencies": {
-    "@line/bot-sdk": "^6.8.4"
-  }
+  "license": "ISC"
 }
