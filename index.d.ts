@@ -114,7 +114,7 @@ declare type LiffContextData = {
  }
 
 declare global {
-    namespace liff-v2-sdk {
+    namespace 'liff-v2-sdk' {
         /**
          * Initialize a liff app. You can only call other LIFF SDK methods after calling liff.init(). 
          * The LIFF SDK gets access tokens and ID tokens from the LINE platform when you initialize the LIFF app.
